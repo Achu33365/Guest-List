@@ -1,0 +1,29 @@
+h1 {
+    margin-bottom: 35px;
+    color: #800080;
+    text-decoration: overline underline;
+    text-decoration-color: red;
+  }
+  body {
+    background-image: linear-gradient(to right top, #c396d6,#ffffff, #2116ba, #3700ff, #ffffff, #4a83ff);
+  }
+  input {
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 175px;
+    background-color: rgb(255, 255, 255);
+    border: solid;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+  }
+  hr {
+    margin: 15px;
+    color: rgb(0, 0, 0);
+  }
+  button {
+    color: #000000;
+    background-color: #ffffff;
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+  
